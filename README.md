@@ -1,5 +1,5 @@
 # COPD Analysis
-### by Tzuyi Chang, 
+### by Tzu Yi Chang, Shih Ya Wong, Cho Ting Lee.
 #### This code is for "Respiratory Sound Analysis of Chronic Obstruction Pulmonary Disease".
 
 * The dataset was created by two research teams in Portugal and Greece. It contains 920 recordings of varying length (10s to 90s) from 126 patients.
