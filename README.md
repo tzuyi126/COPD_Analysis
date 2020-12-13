@@ -6,13 +6,19 @@
 
 * The code can be broken to several parts:
   * Data Preprocessing:
-    * Take the first 20 seconds of every audio file, then apply bandpass filter on and resize every data to the same size.
+    * Take the first 20 seconds of every audio file.
+    * For some datasets, apply bandpass filter.
+    * Resize every data to the same size.
 
-  * Split 70% as training data set and 30% as testing data set.
+  * Split 70% as training dataset and 30% as testing dataset.
 
-  * Calculate MFFC of every data
+  * For some datasets, calculate MFFC.
 
   * Classification: 
-	Use SVM and Random Forest to classify (1)original data, (2)original data applying bandpass filter, (3)original data calculating MFCC, and (4)data with bandpass filter and * calculated MFCC
+    * Use SVM and Random Forest to classify
+      * original data
+      * original data through calculating MFCC
+      * original data applying bandpass filter
+      * original data with bandpass filter and through calculating MFCC
 	
-* Comparing the results, we can find that using data with bandpass filter and MFCC has the best achievement
+* Comparing the results, we can find that using data with bandpass filter and MFCC has the best performance.
