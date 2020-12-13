@@ -1,5 +1,6 @@
 # COPD Analysis
-## This code is for "Respiratory Sound Analysis of Chronic Obstruction Pulmonary Disease".
+### by Tzuyi Chang, 
+#### This code is for "Respiratory Sound Analysis of Chronic Obstruction Pulmonary Disease".
 
 * The dataset was created by two research teams in Portugal and Greece. It contains 920 recordings of varying length (10s to 90s) from 126 patients.
 793 audio files are from patients with COPD, and the other 127 files are from healthy people or patients with other diseases.
