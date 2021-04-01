@@ -13,7 +13,7 @@
 
   * Split 70% as training dataset and 30% as testing dataset.
 
-  * For some datasets, calculate MFFC.
+  * For some datasets, calculate MFC.
 
   * Classification: 
     * Use SVM and Random Forest to classify
