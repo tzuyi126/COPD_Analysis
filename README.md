@@ -22,4 +22,8 @@
       * original data applying bandpass filter
       * original data with bandpass filter and through calculating MFCC
 	
+<<<<<<< HEAD
 * Comparing the results, we can find that using data with bandpass filter and MFCC has the best performance.
+=======
+* Comparing the results, we can find that using data with bandpass filter and MFCC has the best performance.
+>>>>>>> 2581376e37d102a48eb22bbd65fe386de2d1a920
